@@ -1,3 +1,4 @@
+/* Main dividers */
 .divider {
     display: flex;
     justify-content: space-between;
@@ -21,15 +22,17 @@
 }
 
 .divider-right {
-        font-size: 14px;
+    font-size: 14px;
 }
 
+/* Line between subheadings */
 .rule {
         height: 2px;
         background-color: #333;
         width: 100%;
 }
 
+/* Subheadings with dates on left and right */
 .divider-left-subheader {
         float: left;
         font-weight: bold;
@@ -41,6 +44,7 @@
         font-weight: lighter;
 }
 
+/* Description box for job experiences */
 .job_description {
     background-color: #f9f9f9;
     padding: 10px;
@@ -59,6 +63,7 @@
     display: block; /* make it a block level element */
 }
 
+/* Description box for Schools/educations */
 .UCSD_description_cw {
     background-color: #f9f9f9;
     padding: 10px;
@@ -95,6 +100,7 @@
     display: block; /* make it a block level element */
 }
 
+/* Mulitcolumn lists */
 ul.flex-list {
     display: flex;
     flex-wrap: wrap;
@@ -102,4 +108,103 @@ ul.flex-list {
 }
 li.flex-listi {
     width: 30%;
+}
+
+/* Skills and langauges */
+.divider_skills {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+
+.divider_skills_right{
+    flex: 1;
+}
+
+.divider_skills_left{
+    flex: 1;
+}
+
+
+.webdev_desc_box {
+    background-color: #f9f9f9;
+    padding: 10px;
+    font-size: 14px;
+    color: #444;
+}
+
+.webdev_desc_rating {
+    background-color: #f9f9f9;
+    padding: 5px;
+    font-size:14px;
+    line-height: 35px;
+}
+
+.webdev_desc_box::before {
+    content: "Web Development:"; /* The text that will be displayed before the note box */
+    font-weight: bold; /* Make the text bold */
+    color: rgb(171, 167, 167); /* Change the color of the text */
+    margin-right: 5px; /* Space between the text and the note box */
+    text-transform: uppercase;
+    display: block; /* make it a block level element */
+}
+
+.programming_desc_box {
+    background-color: #f9f9f9;
+    padding: 10px;
+    font-size: 14px;
+    color: #444;
+}
+
+.programming_desc_rating {
+    background-color: #f9f9f9;
+    padding: 5px;
+    font-size:14px;
+    line-height: 35px;
+}
+
+.programming_desc_box::before {
+    content: "Programming Languages:"; /* The text that will be displayed before the note box */
+    font-weight: bold; /* Make the text bold */
+    color: rgb(171, 167, 167); /* Change the color of the text */
+    margin-right: 5px; /* Space between the text and the note box */
+    text-transform: uppercase;
+    display: block; /* make it a block level element */
+}
+
+.writing_desc_box {
+    background-color: #f9f9f9;
+    padding: 10px;
+    font-size: 14px;
+    color: #444;
+}
+
+.writing_desc_rating {
+    background-color: #f9f9f9;
+    padding: 5px;
+    font-size:14px;
+    line-height: 35px;
+}
+
+.writing_desc_box::before {
+    content: "Markdown/Writing:"; /* The text that will be displayed before the note box */
+    font-weight: bold; /* Make the text bold */
+    color: rgb(171, 167, 167); /* Change the color of the text */
+    margin-right: 5px; /* Space between the text and the note box */
+    text-transform: uppercase;
+    display: block; /* make it a block level element */
+}
+
+.tags-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+.tag-cell {
+    padding: 5px;
+    margin: 5px;
+}
+
+.tag-shading {
+background-color: #f0f0f093;
 }
