@@ -1,0 +1,105 @@
+.divider {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+
+.divider-title {
+    flex: 1;
+    font-size: 1.2em;
+    font-weight:bold;
+    font-size:28px;
+}
+
+.divider-icon {
+    font-size: 1.5em;
+}
+
+.divider-left {
+        flex: 1;
+        font-size: 14px;
+}
+
+.divider-right {
+        font-size: 14px;
+}
+
+.rule {
+        height: 2px;
+        background-color: #333;
+        width: 100%;
+}
+
+.divider-left-subheader {
+        float: left;
+        font-weight: bold;
+        font-size: 20px;
+}
+
+.divider-right-date {
+        float: right;
+        font-weight: lighter;
+}
+
+.job_description {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    color: #444;
+}
+
+.job_description::before {
+    content: "summary"; /* The text that will be displayed before the note box */
+    font-weight: bold; /* Make the text bold */
+    color: rgb(171, 167, 167); /* Change the color of the text */
+    margin-right: 10px; /* Space between the text and the note box */
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    display: block; /* make it a block level element */
+}
+
+.UCSD_description_cw {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    color: #444;
+}
+
+.UCSD_description_cw::before {
+    content: "Coursework"; /* The text that will be displayed before the note box */
+    font-weight: bold; /* Make the text bold */
+    color: rgb(171, 167, 167); /* Change the color of the text */
+    margin-right: 10px; /* Space between the text and the note box */
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    display: block; /* make it a block level element */
+}
+
+.UCSD_description_ah {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    color: #444;
+}
+
+.UCSD_description_ah::before {
+    content: "Awards/Honors"; /* The text that will be displayed before the note box */
+    font-weight: bold; /* Make the text bold */
+    color: rgb(171, 167, 167); /* Change the color of the text */
+    margin-right: 10px; /* Space between the text and the note box */
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    display: block; /* make it a block level element */
+}
+
+ul.flex-list {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 13px;
+}
+li.flex-listi {
+    width: 30%;
+}
