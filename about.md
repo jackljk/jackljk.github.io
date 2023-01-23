@@ -1,11 +1,11 @@
 ---
-layout: about
+layout: about 
 image: \assets\img\portraits\me.pn
 hide_description: true
 ---
 
 
-# About
+# About (WIP)
 
 
 <!--author-->

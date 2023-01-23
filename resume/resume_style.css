@@ -25,6 +25,19 @@
     font-size: 14px;
 }
 
+/* Button */
+.download-button {
+    padding: 6px 10px; /* Padding */
+    cursor: pointer; /* Pointer cursor on hover */
+    font-size: 14px; /* Large font size */
+    border-radius: 4px; /* Rounded corners */
+}
+
+/* Add hover effect */
+.download-button:hover {
+background-color:  /* Darker green on hover */
+}
+
 /* Line between subheadings */
 .rule {
         height: 2px;
@@ -133,15 +146,43 @@ li.flex-listi {
     color: #444;
 }
 
+
 .webdev_desc_rating {
     background-color: #f9f9f9;
     padding: 5px;
     font-size:14px;
     line-height: 35px;
+    flex-basis: 110px;
+    text-align: right;
 }
 
 .webdev_desc_box::before {
     content: "Web Development:"; /* The text that will be displayed before the note box */
+    font-weight: bold; /* Make the text bold */
+    color: rgb(171, 167, 167); /* Change the color of the text */
+    margin-right: 5px; /* Space between the text and the note box */
+    text-transform: uppercase;
+    display: block; /* make it a block level element */
+}
+
+.ML_desc_box {
+    background-color: #f9f9f9;
+    padding: 10px;
+    font-size: 14px;
+    color: #444;
+}
+
+.ML_desc_rating {
+    background-color: #f9f9f9;
+    padding: 5px;
+    font-size:14px;
+    line-height: 35px;
+    flex-basis: 110px;
+    text-align: right;
+}
+
+.ML_desc_box::before {
+    content: "Machine Learning:"; /* The text that will be displayed before the note box */
     font-weight: bold; /* Make the text bold */
     color: rgb(171, 167, 167); /* Change the color of the text */
     margin-right: 5px; /* Space between the text and the note box */
@@ -161,6 +202,8 @@ li.flex-listi {
     padding: 5px;
     font-size:14px;
     line-height: 35px;
+    flex-basis: 110px;
+    text-align: right;
 }
 
 .programming_desc_box::before {
@@ -184,10 +227,28 @@ li.flex-listi {
     padding: 5px;
     font-size:14px;
     line-height: 35px;
+    flex-basis: 110px;
+    text-align: right;
 }
 
 .writing_desc_box::before {
     content: "Markdown/Writing:"; /* The text that will be displayed before the note box */
+    font-weight: bold; /* Make the text bold */
+    color: rgb(171, 167, 167); /* Change the color of the text */
+    margin-right: 5px; /* Space between the text and the note box */
+    text-transform: uppercase;
+    display: block; /* make it a block level element */
+}
+
+.data_science_desc_box {
+    background-color: #f9f9f9;
+    padding: 10px;
+    font-size: 14px;
+    color: #444;
+}
+
+.data_science_desc_box::before {
+    content: "Data Science:"; /* The text that will be displayed before the note box */
     font-weight: bold; /* Make the text bold */
     color: rgb(171, 167, 167); /* Change the color of the text */
     margin-right: 5px; /* Space between the text and the note box */
@@ -207,4 +268,105 @@ li.flex-listi {
 
 .tag-shading {
 background-color: #f0f0f093;
+}
+
+/* Languages */
+.English_desc_box {
+    background-color: #f9f9f9;
+    padding: 10px;
+    font-size: 13px;
+    color: #444;
+}
+
+.English_desc_rating {
+    background-color: #f9f9f9;
+    padding: 5px;
+    font-size:14px;
+    line-height: 35px;
+    flex-basis: 150px;
+    text-align: right;
+}
+
+.English_desc_box::before {
+    content: "English"; /* The text that will be displayed before the note box */
+    font-weight: bold; /* Make the text bold */
+    color: rgb(171, 167, 167); /* Change the color of the text */
+    margin-right: 5px; /* Space between the text and the note box */
+    text-transform: uppercase;
+    display: block; /* make it a block level element */
+}
+
+.Chinese_desc_box {
+    background-color: #f9f9f9;
+    padding: 10px;
+    font-size: 13px;
+    color: #444;
+}
+
+.Chinese_desc_rating {
+    background-color: #f9f9f9;
+    padding: 5px;
+    font-size:13px;
+    line-height: 35px;
+    flex-basis: 170px;
+    text-align: right;
+}
+
+.Chinese_desc_box::before {
+    content: "Chinese"; /* The text that will be displayed before the note box */
+    font-weight: bold; /* Make the text bold */
+    color: rgb(171, 167, 167); /* Change the color of the text */
+    margin-right: 5px; /* Space between the text and the note box */
+    text-transform: uppercase;
+    display: block; /* make it a block level element */
+}
+
+.Malay_desc_box {
+    background-color: #f9f9f9;
+    padding: 10px;
+    font-size: 13px;
+    color: #444;
+}
+
+.Malay_desc_rating {
+    background-color: #f9f9f9;
+    padding: 5px;
+    font-size:14px;
+    line-height: 35px;
+    flex-basis: 170px;
+    text-align: right;
+}
+
+.Malay_desc_box::before {
+    content: "Bahasa Malaysia (Malay)"; /* The text that will be displayed before the note box */
+    font-weight: bold; /* Make the text bold */
+    color: rgb(171, 167, 167); /* Change the color of the text */
+    margin-right: 5px; /* Space between the text and the note box */
+    text-transform: uppercase;
+    display: block; /* make it a block level element */
+}
+
+.Hokkien_desc_box {
+    background-color: #f9f9f9;
+    padding: 10px;
+    font-size: 14px;
+    color: #444;
+}
+
+.Hokkien_desc_rating {
+    background-color: #f9f9f9;
+    padding: 5px;
+    font-size:14px;
+    line-height: 35px;
+    flex-basis: 170px;
+    text-align: right;
+}
+
+.Hokkien_desc_box::before {
+    content: "Hokkien (Chinese/Mandrin Dialect)"; /* The text that will be displayed before the note box */
+    font-weight: bold; /* Make the text bold */
+    color: rgb(171, 167, 167); /* Change the color of the text */
+    margin-right: 5px; /* Space between the text and the note box */
+    text-transform: uppercase;
+    display: block; /* make it a block level element */
 }
