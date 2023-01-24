@@ -59,8 +59,6 @@ menu:
     url:               /school/
   - title:             Resume
     url:               /resume/
-  - title:              docs
-    url:               /docs/
   
 
 # Add links to the footer.

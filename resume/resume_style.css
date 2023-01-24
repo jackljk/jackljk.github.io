@@ -370,3 +370,18 @@ background-color: #f0f0f093;
     text-transform: uppercase;
     display: block; /* make it a block level element */
 }
+
+.interest {
+    background-color: #f9f9f9;
+    padding: 10px;
+    font-size: 14px;
+    color: #444;
+}
+
+.interest::before {
+    font-weight: bold; /* Make the text bold */
+    color: rgb(171, 167, 167); /* Change the color of the text */
+    margin-right: 5px; /* Space between the text and the note box */
+    text-transform: uppercase;
+    display: block; /* make it a block level element */
+}
