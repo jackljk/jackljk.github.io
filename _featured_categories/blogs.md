@@ -10,7 +10,7 @@ slug: blogs
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Welcome to my projects I have done!
+  This are all my blogs posted by date, for categorized version - [Blogs categorized](/blogs/categorized/)
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true

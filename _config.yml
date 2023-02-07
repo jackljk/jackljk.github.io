@@ -54,7 +54,7 @@ menu:
   - title:             Projects
     url:               /projects/
   - title:             Blogs
-    url:               /Blogs/
+    url:               /blogs/
   - title:             School
     url:               /school/
   - title:             Resume
@@ -85,8 +85,8 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+theme: jekyll-theme-hydejack
+# remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton

@@ -10,16 +10,28 @@ hide_description: true
 
 <!--author-->
 
-As a data science student, I am fluent in Python and have experience in Java, JavaScript, LaTeX, and R. I am also proficient in Git, GitHub, SQL, and SQLite, which I have used in various projects during my studies. My main interests lie in the areas of machine learning and deep learning, specifically in natural language processing (NLP). 
+Outside of education, I have also been a competitive swimmer for over 10 years, an avid climber and runner (Currently training for a Marathon) and a Speed Cuber! My current record for the standard 3x3 is 8.48 which I break down further in [3x3 Pb](/blogs/cubingcube-pb/). And during my down time I love to play [games](/gaming/)!
 
-However, I am always open to exploring new options and expanding my knowledge in all things tech.
+> Check out my [Resume](/resume/) to learn more about my experience and skills!
+> And please have a look around my website if you wish to learn more about me! 
 
-I am actively seeking an internship opportunity to gain hands-on experience in the field and continue to develop my skills. I am a quick learner and am always eager to take on new challenges.
+## Example Projects
+![Keyboard](\assets\about_imgs\keyboard.jpg){:.lead width="600" height="100" loading="lazy"}
+[League of Legends Analysis](/projects/projects-league-part-1/)
+{:.figcaption}
 
-Outside of education and coding, I have a passion for fitness and staying active. I have been swimming for over 10 years, and I also enjoy running, rock climbing, solving Rubik's cubes (my personal best is 8.46 seconds), and PC gaming. 
-I believe that a healthy mind and body is essential for success and I strive to maintain balance in my life through my hobbies.
+<hr>
 
-Please take a look around my portfolio website to see some of my work and to learn more about me. If you have any internship opportunities or are looking for a driven and dedicated student to work on your project, please feel free to reach out to me. 
+## Game Ratings and Reviews!
 
-I am excited to see where my passion for data science and technology will take me and look forward to working with you in the future.
+
+
+## Why the quote?
+When I was younger, I typically excel in whatever that was put forth on me, I always the poor thinking that I was smart, that I was the best at everything. However, this thinking was soon to change drastically, as I started competitive swimming at the age of 11. This was a pivot point in my life, as it opened my eyes to the vast talent in the world, as no matter how hard I tried at times I never seem to come close to others. I was demotivated, I thought to myself, "there is no way I can be as good," I thought I was nothing. But it was also around this time where I was into anime, and at anime I was watching at the time was ['Naruto'](https://www.imdb.com/title/tt0409591/). 
+
+For those who know the anime, Naruto was no one special, he was not talented in ['Ninjutsu' (Combat Techniques in Naruto)](https://naruto.fandom.com/wiki/Ninjutsu) especially compared to his rival Sasuke who was born a genius. However, throughout the show, Naruto would use both pure hardwork and determination to bridge the gap between them. Which was inspiring as I thought to myself that maybe I just needed hardwork! However, the one scene that really stuck with me from Naruto was when Rock Lee who just like Naruto was no genius, in fact Lee had it much worst as he was not even able to use [Chakara(Spiritual Energy found in the Naruto Universe)](https://narutoprofile.fandom.com/wiki/Chakra#:~:text=Chakra%20is%20the%20resulting%20form,training%2C%20stimulants%2C%20and%20exercise.) said this to Sasuke,
+> "A Dropout will beat a genius through hardwork" - Rock Lee
+{:.lead}
+
+This 
 
