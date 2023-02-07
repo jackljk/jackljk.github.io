@@ -8,8 +8,8 @@ jklim:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hello! My name is Jack Kai Lim, a Malaysian boy currently studying at the University of California, San Diego studying Data Science. 
-    My main interest within the field currently lie in AI, Machine Learning and Deep learning due to the endless possibilties and they offer us and 
+    Hello! My name is Jack Kai Lim, I was born and raised in Malaysia and I currently study at the University of California, San Diego majoring in Data Science. 
+    My main interest within the field currently lie in AI, Machine Learning and Deep learning due to the endless possibilties they offer us and 
     I am always interested in learning more about them!
 
   # This photo will be used in the about section
