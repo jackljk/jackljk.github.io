@@ -2,6 +2,7 @@
 layout: about 
 image: \assets\img\portraits\me.pn
 hide_description: true
+css: \assets\css\my-card.css
 ---
 
 
@@ -16,9 +17,26 @@ Outside of education, I have also been a competitive swimmer for over 10 years, 
 > Please have a look around my website if you wish to learn more about me! 
 
 ## Example Projects
-![Keyboard](\assets\about_imgs\keyboard.jpg){:.lead width="600" height="100" loading="lazy"}
-[League of Legends Analysis](/projects/projects-league-part-1/)
-{:.figcaption}
+<div id = "my-cards">
+<div id = "cards">
+    <a href = "/projects/projects-league-part-1/" class = "card">
+    <div class = "card-border"></div>
+    <div class = "card-content"><img src="\assets\about_imgs\teemo.jpg" alt="League Of Legends Logo"><p>League Of Legends Project</p></div>
+    </a>
+    <div class = "card">
+    <div class = "card-border"></div>
+    <div class = "card-content"></div>
+    </div>
+    <div class = "card">
+    <div class = "card-border"></div>
+    <div class = "card-content"></div>
+    </div>
+    <div class = "card">
+    <div class = "card-border"></div>
+    <div class = "card-content"></div>
+    </div>
+</div>
+</div>
 
 <hr>
 
@@ -34,4 +52,3 @@ For those who know the anime, Naruto was no one special, he was not talented in 
 {:.lead}
 
 This 
-
