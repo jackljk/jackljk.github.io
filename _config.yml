@@ -55,8 +55,8 @@ menu:
     url:               /projects/
   - title:             Blogs
     url:               /blogs/
-  - title:             School
-    url:               /school/
+  - title:             Coding
+    url:               /coding/
   - title:             Resume
     url:               /resume/
   

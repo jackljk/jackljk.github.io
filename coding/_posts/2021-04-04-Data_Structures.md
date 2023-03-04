@@ -1,17 +1,17 @@
 ---
 layout: post
-title: DSC30
+title: Java Data Structures
 description: >
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
-categories: [school]
+categories: [coding]
 sitemap: false
 hide_last_modified: true
-permalink: /school/school-dsc30/
+permalink: /coding/data-structures/
 ---
 
-## DSC30
+## Data Structures
 
 In DSC30 we learnt Java and data structures in this section I will go over all my own implmentations of certain data structures, their logic and how my code functions.
 
-[Hash Tables](/school/school-dsc30/hashtables/)
+[Hash Tables](/coding/data-structures/hashtables/)
 

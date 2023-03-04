@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: School (WIP)
+title: Coding (WIP)
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: school
+slug: coding
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Welcome to my projects I have done!
+  This is a little bit of my journey for coding!
 
 # (Optional) You can disable grouping posts by date.
 no_groups: true
