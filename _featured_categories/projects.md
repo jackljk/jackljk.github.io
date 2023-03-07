@@ -10,7 +10,7 @@ slug: projects
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Welcome to my projects I have done!
+  Here are all my projects by date! For categorized version - [Projects categorized](/projects/categorized/)
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true

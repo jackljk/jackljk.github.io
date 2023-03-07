@@ -17,31 +17,50 @@ Outside of education, I have also been a competitive swimmer for over 10 years, 
 > Please have a look around my website if you wish to learn more about me! 
 
 ## Example Projects
-<div id = "my-cards">
-<div id = "cards">
-    <a href = "/projects/projects-league-part-1/" class = "card">
-    <div class = "card-border"></div>
-    <div class = "card-content"><img src="\assets\about_imgs\teemo.jpg" alt="League Of Legends Logo"><p>League Of Legends Project</p></div>
+<div id = "my-project-cards">
+<div id = "project-cards">
+    <a href = "/projects/dsc/projects-league-part-1/" class = "project-card">
+    <div class = "project-card-border"></div>
+    <div class = "project-card-content"><img src="\assets\about_imgs\teemo.jpg" alt="League Of Legends Logo"><p>League Of Legends Project</p></div>
     </a>
-    <div class = "card">
-    <div class = "card-border"></div>
-    <div class = "card-content"></div>
-    </div>
-    <div class = "card">
-    <div class = "card-border"></div>
-    <div class = "card-content"></div>
-    </div>
-    <div class = "card">
-    <div class = "card-border"></div>
-    <div class = "card-content"></div>
+    <a href = "/projects/dsc/isochrone-of-san-diego/" class = "project-card">
+    <div class = "project-card-border"></div>
+    <div class = "project-card-content"><img src="\assets\about_imgs\isochrone.png" alt="San Diego Isochrone"><p>Isochrone of San Diego</p></div>
+    </a>
+    <a href = "/personal-portfolio/" class = "project-card">
+    <div class = "project-card-border"></div>
+    <div class = "project-card-content"><img src="\assets\about_imgs\website.png" alt="San Diego Isochrone"><p>Personal Portfolio</p></div>
+    </a>
+    <div class = "project-card">
+    <div class = "project-card-border"></div>
+    <div class = "project-card-content"></div>
     </div>
 </div>
 </div>
 
 <hr>
 
-## Game Ratings and Reviews!
-
+## Interesting Blogs!
+<div id = "my-game-cards">
+<div id = "game-cards">
+    <a href = "/blogs/gaming/god-of-war/" class = "game-card">
+    <div class = "game-card-border"></div>
+    <div class = "game-card-content"><img src="\assets\about_imgs\god_of_war.webp" alt="God of War Front Cover"><p>God of War Review!</p></div>
+    </a>
+    <a href = "/blogs/cubing/cube-pb/" class = "game-card">
+    <div class = "game-card-border"></div>
+    <div class = "game-card-content"><img src="\assets\about_imgs\rubix_cube.webp" alt="Rubix Cube"><p>My New Personal Best!</p></div>
+    </a>
+    <a class = "game-card">
+    <div class = "game-card-border"></div>
+    <div class = "game-card-content"></div>
+    </a>
+    <div class = "game-card">
+    <div class = "game-card-border"></div>
+    <div class = "game-card-content"></div>
+    </div>
+</div>
+</div>
 
 
 ## Why the quote?
@@ -51,4 +70,4 @@ For those who know the anime, Naruto was no one special, he was not talented in 
 > "A Dropout will beat a genius through hardwork" - Rock Lee
 {:.lead}
 
-This 
+This stuck with me, and has been a motto that I occasionally use to remind and motivate myself that hardwork is the key to success!

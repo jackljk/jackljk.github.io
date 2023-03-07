@@ -1,0 +1,45 @@
+<!-- 
+  Code for main cards in about page
+-->
+<script>
+document.getElementById('_pushState').addEventListener('hy-push-state-load', function() {
+    // <your init code>
+    document.getElementById("project-cards").onmousemove = e => {
+        for (const card of document.getElementsByClassName('project-card')){
+          const rect = card.getBoundingClientRect(),
+              x = e.clientX - rect.left,
+              y = e.clientY - rect.top;
+    
+            card.style.setProperty('--mouse-x', `${ x }px`);
+            card.style.setProperty('--mouse-y', `${ y }px`);
+        }
+      }
+    
+    document.getElementById("game-cards").onmousemove = e => {
+      for (const card of document.getElementsByClassName('game-card')){
+        const rect = card.getBoundingClientRect(),
+            x = e.clientX - rect.left,
+            y = e.clientY - rect.top;
+    
+          card.style.setProperty('--mouse-x', `${ x }px`);
+          card.style.setProperty('--mouse-y', `${ y }px`);
+      }
+    }
+  });
+</script>
+
+<!-- 
+  Code for dummy cards for explaining how I made the cards
+ -->
+<script>
+  document.getElementById("cards-part5").onmousemove = e => {
+        for (const card of document.getElementsByClassName('card-part5')){
+          const rect = card.getBoundingClientRect(),
+              x = e.clientX - rect.left,
+              y = e.clientY - rect.top;
+    
+            card.style.setProperty('--mouse-x', `${ x }px`);
+            card.style.setProperty('--mouse-y', `${ y }px`);
+        }
+    }
+</script>
