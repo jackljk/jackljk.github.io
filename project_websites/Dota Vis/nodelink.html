@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.6.6/css/flag-icons.min.css"
+    />
+    <script type="text/javascript" src="js/app.js"></script>
+    <link rel="stylesheet" href="css/styles.css" />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="icon" href="assets/pageIcons/nodelink.png" type="image/x-icon">
+
+
+    <title>Dota 2 Node and Link</title>
+  </head>
+
+  <body onload="nodelinkgraph()">
+    <h2>Roles Visualization - Node and Link</h2>
+    <div class="text">
+      <p>
+        Becoming skilled at Dota 2 requires more than just mechanical skill and
+        game sense. Understanding the many roles of heroes in the game is
+        crucial for success. Every hero in Dota 2 has a unique task or use to
+        help their team, and players who can identify and adapt to these roles
+        will have an advantage in the game.
+        <br /><br />
+        That said, with over 100 heroes in the game, it can be challenging to
+        keep track of all their roles and abilities. Fortunately, there are
+        tools and resources available to help players learn and understand these
+        roles. One such tool is a node and link diagram, which is a
+        visualization that shows the unique roles of all the heroes in Dota 2.
+        <br /><br />
+        The node and link diagram works by categorizing each hero into their
+        respective roles and displaying them as nodes in the diagram. The nodes'
+        sizes depend on the number of heroes with that specific role, and the
+        links connect the smaller nodes (heroes) to the larger nodes (roles)
+        they belong to. The diagram is interactive, allowing players to hover
+        over the roles to see how many heroes have that role and highlight the
+        links to the roles that the hero has. The diagram also includes
+        animations, making it a fun and engaging way to learn about the game's
+        many roles.
+        <br /><br />
+        Having access to this tool can be incredibly helpful, especially for
+        newer players who are still learning the game's ins and outs. By
+        referring to the visualization, players can quickly and easily identify
+        a hero's role and understand what they do. This knowledge can help
+        players make better decisions in the game, such as when and where to
+        engage in combat, which items to purchase, and how to support their team
+        effectively.
+        <br /><br />
+        <span style = "font-weight: bold;">Marks -</span> The nodes are one of the marks, which show either the heroes
+        or the roles. The links are the other mark, which shows the connection
+        between the heroes and the nodes that represent the roles they have.
+        <br /><br />
+        <span style = "font-weight: bold;">Channels -</span>The channels are the size of the role nodes tells us the number of heroes
+        classified under that role. 
+        <br /><br />
+        <span style = "font-weight: bold;">Design Considerations-</span> One of the design considerations are the Tooltips that
+         appear when hovering over the hero nodes to see the hero names.
+        There are also Tooltips that appear when hovering over the role nodes to see the raw
+        values of the role node. Hovering over the hero nodes should highlight
+        its links to the roles it fulfills. Hovering over the role nodes should
+        highlight the links to all the heroes that fulfill that role.
+      </p>
+    </div>
+    <div id="nodelink" class="center_plot"></div>
+    <a class="button-bar" href="index.html"> Back to Home </a>
+  </body>
+</html>

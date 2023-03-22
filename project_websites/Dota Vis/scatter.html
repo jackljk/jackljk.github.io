@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.6.6/css/flag-icons.min.css"
+    />
+    <script type="text/javascript" src="js/app.js"></script>
+    <link rel="stylesheet" href="css/styles.css" />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="icon" href="assets/pageIcons/scatterplot.png" type="image/x-icon">
+
+
+    <title>Dota 2 Scatterplot</title>
+  </head>
+
+  <body onload="scatter()">
+    <h2>Hero Win Rates - Scatterplot</h2>
+    <div class="text">
+      <p>
+        One of the keys to success in any competitive game is to have a strong
+        understanding of the heroes or characters that you are playing with. In
+        the popular game Dota 2, this means knowing which heroes are the most
+        effective in the current meta, as well as which heroes are the most
+        popular.
+        <br />
+        <br />
+        To gain an upper hand on my opponents, I have decided to create a
+        scatterplot that shows the number of wins each hero gets in relation to
+        the number of times that hero is picked in the game. This will allow me
+        to visually see which heroes are the most popular and effective, and
+        will help me understand which heroes I should prioritize when playing.
+        <br />
+        <br />
+        Typically, in a game like Dota 2, the most popular heroes are popular
+        for a few reasons. First, in the current patch of the game, they are
+        stronger and more viable heroes in the meta. This means that they are
+        more likely to contribute to a win, and that players who use them are
+        more likely to be successful. Secondly, if a hero is popular, it also
+        means that they are heroes that are fun to play. This can add an
+        additional benefit that would make me more motivated to play well.
+        <br />
+        <br />
+        By creating this scatterplot, I hope to gain a better understanding of
+        the heroes that are being used most frequently in the game, and which
+        heroes are the most effective. This will allow me to make more informed
+        decisions when choosing which hero to use, and will give me a better
+        chance of succeeding in the game.
+        <br><br>
+        <span style = "font-weight: bold;">Marks -</span> The marks in the graph are the points designated by the hero
+        icons. This provides an easier visualization of which point correlates
+        to which heroes. 
+        <br><br>
+        <span style="font-weight: bold">Channels - </span>The position of each point on the graph
+        indicates the win rate and pick rate of the heroes. Heroes with a higher
+        win rate are placed higher up on the y-axis, while more popular heroes
+        are placed further to the right on the x-axis. \
+        <br><br>
+        <span style="font-weight: bold">Design Considerations - </span> To make the scatter plot more interactive, the design includes the
+        ability to zoom in and out of the graph. This is useful since a lot of
+        the data are clumped together and are sometimes hard to pick out
+        individually. This allows the user to hone in at points that they want
+        and see the point/hero of interest more clearly. Additionally, a tooltip
+        is included to provide the exact number of the win and pick, making it
+        easier to see and read the raw number of the point.
+      </p>
+    </div>
+    <div id="scatterplot" class="center_plot"></div>
+
+    <a class="button-bar" href="index.html"> Back to Home </a>
+  </body>
+</html>

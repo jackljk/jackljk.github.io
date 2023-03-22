@@ -29,7 +29,7 @@ description:           >
   with a focus on personal sites that are meant to impress. test test
 
 # A shorter description for the sidebar.
-tagline:               A Dropout will beat a genius through hardwork -Rock Lee (Naruto)
+tagline:               >Data Science Student
 
 # A list of keywords for your blog
 keywords:              [Student]
@@ -85,8 +85,8 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+theme: jekyll-theme-hydejack
+# remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton

@@ -7,6 +7,7 @@ categories: [coding]
 sitemap: false
 hide_last_modified: true
 permalink: /coding/HTML-CSS-JS/
+image: /assets/coding/htmlcssjs/cover.png
 ---
 Here is a categorized page of my coding journey with HTML, CSS and Javascript for Web Development. I will be adding more as I go along!
 

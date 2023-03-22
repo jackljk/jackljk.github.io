@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.6.6/css/flag-icons.min.css"
+    />
+    <script type="text/javascript" src="js/app.js"></script>
+    <link rel="stylesheet" href="css/styles.css" />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="icon" href="assets/pageIcons/geomap.webp" type="image/x-icon">
+
+    <title>Dota 2 Horizontal Bar Chart</title>
+  </head>
+
+  <body onload="geo()">
+    <h2>Best Player by country - Geomap</h2>
+    <div class="text">
+      <p>
+        In order to become better at any skill, it is essential to challenge
+        oneself by playing against people who are more skilled. This is
+        especially true for competitive games where the level of competition can
+        often make the difference between winning and losing. As a result, it is
+        important to identify the regions of the world where the best players
+        for a particular game are located.
+        <br /><br />
+        To address this need, I created a world map visualization that displays
+        the number of "professional" players in each country for the game in
+        question. By looking at this map, I can quickly and easily identify the
+        countries with the most skilled players. Additionally, I added an
+        interactive tooltip that displays the information of a random player
+        located in a specific country every time the user hovers over it. This
+        feature makes the visualization more engaging for the user and provides
+        additional insight into the skills of players from different regions.
+        <br /><br />
+        <span style = "font-weight: bold;">Marks -</span> They are the individual shape of the countries is drawn, colored, and
+        shaded. I chose to use a choropleth map as it visually shows the
+        location of the user's interest in the world. 
+        <br /><br />
+        <span style = "font-weight: bold;">Channels -</span> The channels are the color saturation of each mark on the choropleth. I opted for a
+        choropleth map as the color saturation can quickly indicate the number
+        of pro players in a given region. 
+        <br /><br />
+        <span style = "font-weight: bold;">Design Considerations -</span> I
+        added a tooltip to display the raw number of pro players located in a
+        country. An image of the country's flag is included to aid in
+        identification. The tooltip also highlights a random player from that
+        country to provide examples and ideas of players who live there.
+      </p>
+    </div>
+    <div
+      id="geomap"
+      class="center_plot"
+      style="margin-left: 200px; margin-right: 200px"
+    ></div>
+    <div id="legend"></div>
+    <div class="geomap-tooltip" style="left: -1000px; top: -1000px">
+      <div class="geomap-tooltip-title">
+        <p>TITLE TEXT</p>
+      </div>
+      <div class="geomap-tooltip-image1">
+        <img
+          src="https://avatars.akamai.steamstatic.com/486838baa72b3addf040bf26419a78000e3aa1e7_full.jpg"
+        />
+      </div>
+      <div class="geomap-tooltip-text">
+        <p>
+          list 1 <br />
+          list 2 <br />
+          list 3 <br />
+          list 4 <br />
+          list 5 <br />
+          list 5 <br />
+          list 5 <br />
+          list 5 <br />
+          list 5 <br />
+          list 5 <br />
+        </p>
+      </div>
+      <div class="geomap-tooltip-image2">
+        <span class="fi fi-gr"></span>
+      </div>
+    </div>
+    <a class="button-bar" href="index.html"> Back to Home </a>
+  </body>
+</html>

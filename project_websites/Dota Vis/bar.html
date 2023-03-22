@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.6.6/css/flag-icons.min.css"
+    />
+    <script type="text/javascript" src="js/app.js"></script>
+    <link rel="stylesheet" href="css/styles.css" />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="icon" href="assets/pageIcons/bar.png" type="image/x-icon">
+
+    <title>Dota 2 Horizontal Bar Chart</title>
+  </head>
+
+  <body onload="bar()">
+    <h2>Heroes Base Stats - Bar Chart</h2>
+    <div class="center-wrapper">
+      <button class="lvl1 button-bar">Lvl 1</button>
+      <button class="lvl30 button-bar">Lvl 30</button>
+      <select class="primary-attribute">
+        <option value="idasc">ID Ascending</option>
+        <option value="iddesc">ID Descending</option>
+        <option value="nameasc">Name Ascending</option>
+        <option value="namedesc">Name Descending</option>
+        <option value="str">Strength</option>
+        <option value="agi">Agility</option>
+        <option value="int">Intelligence</option>
+        <option value="sumStatsAsc">Sum Stats Ascending</option>
+        <option value="sumStatsDesc">Sum Stats Descending</option>
+      </select>
+      <div class="wrapper">
+        <div
+          id="barChart"
+          style="width: 814px; height: 900px; overflow-y: scroll"
+        ></div>
+        <div class="left-text">
+          <p>
+            In Dota 2, gaining an edge over other players can be the difference
+            between winning and losing. In the game I play, I want to have a
+            comprehensive understanding of which heroes have the highest base
+            stats (strength, agility, and intelligence) without any items
+            equipped. By having this knowledge, I can make strategic decisions
+            about which heroes to select based on their inherent strengths.
+            <br /><br />
+            In addition to determining which heroes have the highest base stats,
+            I also want to compare the base stats of each hero at level 1 versus
+            level 30 to see how much they increase over time. This will allow me
+            to predict how each hero will perform at different points in the
+            game and plan my strategy accordingly.
+            <br /><br />
+            By having access to this information, I can gain a significant
+            advantage over other players who may not have taken the time to
+            analyze the game in the same way. Rather than relying solely on my
+            own skill and intuition, I can make informed decisions based on
+            objective data. This will give me a better chance of succeeding in
+            the game and achieving my goals. 
+            <br><br>
+            <span style = "font-weight: bold;">Marks -</span> The marks in the horizontal bar chart are
+            represented by bars, which are used to show the difference in total
+            stats between the heroes. 
+            <br><br>
+            <span style = "font-weight: bold;">Channels -</span>are represented by the vertical height of
+            each stacked bar and the entire bar as a whole. Another channel is
+            the color of the different stacked bars, which differentiates the
+            different stats. Red is used for strength, green for agility, and
+            blue for intelligence, as these colors are commonly associated with
+            these attributes in the game.
+            <br><br>
+            <span style = "font-weight: bold;">Design Considerations -</span>include buttons to see
+            the values of the heroes when they are level 1 or level 30, the
+            ability to sort by many different methods in order to more easily
+            see the patterns and search for the heroes who are better in each
+            regard, and a tooltip to see the raw values of the stats, showing
+            both the stat you are hovering over and the total sum of all the
+            stats. Overflow scrolling is used so the graph's size is not overly
+            large, as the data of over 100 heroes is displayed. A horizontal Bar
+            chart is used so the scrolling seems more clean and the values are
+            just shown in a much more clean manner.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <a class="button-bar" href="index.html"> Back to Home </a>
+  </body>
+</html>

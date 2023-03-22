@@ -35,7 +35,7 @@
 
 /* Add hover effect */
 .download-button:hover {
-background-color:  /* Darker green on hover */
+background-color: #ddd;
 }
 
 /* Line between subheadings */
@@ -333,7 +333,7 @@ background-color: #f0f0f093;
     padding: 5px;
     font-size:14px;
     line-height: 35px;
-    flex-basis: 170px;
+    flex-basis: 180px;
     text-align: right;
 }
 
