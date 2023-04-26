@@ -6,7 +6,7 @@ description: >
 categories: [coding]
 sitemap: false
 hide_last_modified: true
-permalink: /coding/ML/loan-prediction/
+permalink: /coding/ML/
 image: /assets/coding/ML Notebooks/cover.png
 ---
 

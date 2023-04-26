@@ -22,7 +22,7 @@ Outside of education, I have also been a competitive swimmer for over 10 years, 
     <div class = "project-card-border"></div>
     <div class = "project-card-content"><img src="\assets\about_imgs\teemo.jpg" alt="League Of Legends Logo"><p>League Of Legends Project</p></div>
     </a>
-    <a href = "/projects/dsc/isochrone-of-san-diego/" class = "project-card">
+    <a href = "/projects/vis/isochrone-of-san-diego/" class = "project-card">
     <div class = "project-card-border"></div>
     <div class = "project-card-content"><img src="\assets\about_imgs\isochrone.png" alt="San Diego Isochrone"><p>Isochrone of San Diego</p></div>
     </a>
@@ -30,10 +30,10 @@ Outside of education, I have also been a competitive swimmer for over 10 years, 
     <div class = "project-card-border"></div>
     <div class = "project-card-content"><img src="\assets\about_imgs\website.png" alt="San Diego Isochrone"><p>Personal Portfolio</p></div>
     </a>
-    <div class = "project-card">
+    <a href = "/projects/vis/dota-2-vis/" class = "project-card">
     <div class = "project-card-border"></div>
-    <div class = "project-card-content"><img src="\assets\projects\Dota 2 Vis\Homepage.png"><p>Dota 2 Visulization Project Using D3</p></div>
-    </div>
+    <div class = "project-card-content"><img src="\assets\projects\Dota 2 Vis\Homepage.png"><p>Dota 2 Visulization Project</p></div>
+    </a>
 </div>
 </div>
 
