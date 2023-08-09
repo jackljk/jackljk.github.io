@@ -31,4 +31,4 @@ permalink: /projects/categorized/
 [Isochrone of San Diego]: /projects/vis/isochrone-of-san-diego/
 
 
-[Personal Portfolio]: /personal-portfolio/
+[Personal Portfolio]: /projects/personal-portfolio/

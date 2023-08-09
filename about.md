@@ -15,7 +15,7 @@ Outside of education, I have also been a competitive swimmer for over 10 years, 
 > Check out my [Resume](/resume/) to learn more about my experience and skills.
 > Please have a look around my website if you wish to learn more about me! 
 
-## Example Projects
+## Projects
 <div id = "my-project-cards">
 <div id = "project-cards">
     <a href = "/projects/dsc/projects-league-part-1/" class = "project-card">
@@ -39,27 +39,6 @@ Outside of education, I have also been a competitive swimmer for over 10 years, 
 
 <hr>
 
-## Interesting Blogs!
-<div id = "my-game-cards">
-<div id = "game-cards">
-    <a href = "/blogs/gaming/god-of-war/" class = "game-card">
-    <div class = "game-card-border"></div>
-    <div class = "game-card-content"><img src="\assets\about_imgs\god_of_war.webp" alt="God of War Front Cover"><p>God of War Review!</p></div>
-    </a>
-    <a href = "/blogs/cubing/cube-pb/" class = "game-card">
-    <div class = "game-card-border"></div>
-    <div class = "game-card-content"><img src="\assets\about_imgs\rubix_cube.webp" alt="Rubix Cube"><p>My New Personal Best!</p></div>
-    </a>
-    <a class = "game-card">
-    <div class = "game-card-border"></div>
-    <div class = "game-card-content"><img src="\assets\about_imgs\comingsoon.png" alt="Coming Soon"><p>Coming Soon</p></div>
-    </a>
-    <div class = "game-card">
-    <div class = "game-card-border"></div>
-    <div class = "game-card-content"><img src="\assets\about_imgs\comingsoon.png" alt="Coming Soon"><p>Coming Soon</p></div>
-    </div>
-</div>
-</div>
 
 
 ## My Motto
