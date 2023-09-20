@@ -14,6 +14,8 @@ Here is a categorized page of all my Jupiter Notebooks.
 
 ## Personal Portfolio Website Code!
 * [Loan Prediction]{:.heading.flip-title} --- Jupiter Notebook for Loan Prediction Machine Learning Project
+* [Airbnb Price Prediction]{:.heading.flip-title} --- Jupiter Notebook for Airbnb Price Prediction Machine Learning Project
 
 
 [Loan Prediction]: /coding/ML/loan-prediction/
+[Airbnb Price Prediction]: /coding/ML/airbnb-prediction/

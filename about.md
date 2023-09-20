@@ -10,7 +10,7 @@ hide_description: true
 
 <!--author-->
 
-Outside of education, I have also been a competitive swimmer for over 10 years, an avid climber and runner(Currently training for a marathon) and a Speed Cuber! My current record for the standard 3x3 is 8.48 which I break down further in [3x3 PB](/blogs/cubingcube-pb/). And during my down time I love to play [games](/gaming/)!
+Outside of education, I have also been a competitive swimmer for over 10 years, an avid climber and runner(Currently training for a marathon) and a Speed Cuber! My current record for the standard 3x3 is 8.48 which I break down further in [3x3 PB](/blogs/cubingcube-pb/). And during my down time I love to play [games](/games/)!
 
 > Check out my [Resume](/resume/) to learn more about my experience and skills.
 > Please have a look around my website if you wish to learn more about me! 
