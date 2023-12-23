@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Predicting Loan Approvals using Machine Learning"
-categories: [projects, ML]
+categories: [projects]
 sitemap: false
 hide_last_modified: true
 permalink: /projects/dsc/loan-prediction/

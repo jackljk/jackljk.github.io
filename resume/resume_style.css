@@ -104,7 +104,7 @@ background-color: #ddd;
 }
 
 .UCSD_description_ah::before {
-    content: "Awards/Honors"; /* The text that will be displayed before the note box */
+    content: "Honors/Achievements"; /* The text that will be displayed before the note box */
     font-weight: bold; /* Make the text bold */
     color: rgb(171, 167, 167); /* Change the color of the text */
     margin-right: 10px; /* Space between the text and the note box */
@@ -139,7 +139,7 @@ li.flex-listi {
 }
 
 
-.webdev_desc_box {
+.others_desc_box {
     background-color: #f9f9f9;
     padding: 10px;
     font-size: 14px;
@@ -147,7 +147,7 @@ li.flex-listi {
 }
 
 
-.webdev_desc_rating {
+.others_desc_rating {
     background-color: #f9f9f9;
     padding: 5px;
     font-size:14px;
@@ -156,8 +156,8 @@ li.flex-listi {
     text-align: right;
 }
 
-.webdev_desc_box::before {
-    content: "Web Development:"; /* The text that will be displayed before the note box */
+.others_desc_box::before {
+    content: "Others:"; /* The text that will be displayed before the note box */
     font-weight: bold; /* Make the text bold */
     color: rgb(171, 167, 167); /* Change the color of the text */
     margin-right: 5px; /* Space between the text and the note box */
@@ -369,6 +369,32 @@ background-color: #f0f0f093;
     margin-right: 5px; /* Space between the text and the note box */
     text-transform: uppercase;
     display: block; /* make it a block level element */
+}
+
+.japanese_desc_box {
+    background-color: #f9f9f9;
+    padding: 10px;
+    font-size: 14px;
+    color: #444;
+    flex-direction: left;
+}
+
+.japanese_desc_box::before {
+    content: "Japanese"; /* The text that will be displayed before the note box */
+    font-weight: bold; /* Make the text bold */
+    color: rgb(171, 167, 167); /* Change the color of the text */
+    margin-right: 5px; /* Space between the text and the note box */
+    text-transform: uppercase;
+    display: block; /* make it a block level element */
+}
+
+.japanese_desc_rating {
+    background-color: #f9f9f9;
+    padding: 5px;
+    font-size:14px;
+    line-height: 35px;
+    flex-basis: 170px;
+    text-align: right;
 }
 
 .interest {

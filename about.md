@@ -18,9 +18,9 @@ Outside of education, I have also been a competitive swimmer for over 10 years, 
 ## Projects
 <div id = "my-project-cards">
 <div id = "project-cards">
-    <a href = "/projects/dsc/projects-league-part-1/" class = "project-card">
+    <a href = "/projects/dsc/CB/Reproduction/" class = "project-card">
     <div class = "project-card-border"></div>
-    <div class = "project-card-content"><img src="\assets\about_imgs\teemo.jpg" alt="League Of Legends Logo"><p>League Of Legends Project</p></div>
+    <div class = "project-card-content"><img src="\assets\projects\ClimateBench\Reproduction\report.png" alt="Climate Bench Report Preview"><p>Climate Bench Reproduction</p></div>
     </a>
     <a href = "/projects/vis/isochrone-of-san-diego/" class = "project-card">
     <div class = "project-card-border"></div>

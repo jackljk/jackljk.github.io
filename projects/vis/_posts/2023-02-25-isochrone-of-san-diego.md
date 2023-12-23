@@ -39,7 +39,7 @@ $$
 $$
 
 ## How to use the Isochrone
-Along with **CCE** I made a comprehensive manual on how to work the app which can be downloaded <a href="{{site.baseurl}}/assets/downloadable/manuals/Isochrone_manual.pdf" download>here.</a>
+Along with **CCE** I made a comprehensive manual on how to work the app which can be downloaded <a href="{{site.baseurl}}\assets\projects\Isochron\Isochrone_manual.pdf" download>here.</a>
 
 ![Index Page](\assets\projects\isochron\instructions.png){:.lead width="800" height="100" loading="lazy"}
 

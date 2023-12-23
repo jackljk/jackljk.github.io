@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Predicting Airbnb Prices using Machine Learning (Kaggle Competition)"
-categories: [projects, ML]
+categories: [projects]
 sitemap: false
 hide_last_modified: true
 permalink: /projects/dsc/airbnb-prediction/

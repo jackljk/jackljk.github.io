@@ -19,3 +19,4 @@ description: >
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 # sitemap: False
 ---
+![Half-width](\assets\projects\home.png){:.lead width="800" height="50" loading="lazy"}
