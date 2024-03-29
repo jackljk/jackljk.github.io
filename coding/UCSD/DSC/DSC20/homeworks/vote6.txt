@@ -1,0 +1,9 @@
+Jack,0
+Jack,1
+Jack,1
+Jack,1
+Jack,1
+Jack,1
+Jack,0
+Jack,0
+Jack,1

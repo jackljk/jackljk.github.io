@@ -1,0 +1,10 @@
+marina,10,15,80
+elvy,4,10,20
+elvy,4,0,60
+marina,10,80,100
+colin,6,0,90
+elvy,4,30,60
+marina,10,0,0
+marina,1,10,25
+elvy,2,0,8
+marina,1,0,10

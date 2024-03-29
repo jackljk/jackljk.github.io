@@ -1,0 +1,8 @@
+Jerry,1
+Larry,1
+Colin,1
+Scott,1
+Jianming,0
+Huaning,1
+Amy,1
+Elvy,0

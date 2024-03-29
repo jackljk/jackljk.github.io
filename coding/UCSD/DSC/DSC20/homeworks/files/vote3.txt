@@ -1,0 +1,4 @@
+Jerry,1
+Larry,1
+Colin,1
+Scott,0

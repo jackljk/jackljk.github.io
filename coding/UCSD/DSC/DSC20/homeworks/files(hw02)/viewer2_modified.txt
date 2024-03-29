@@ -1,0 +1,6 @@
+10,Yes
+4,No
+4,Yes
+10,No
+6,Yes
+4,No

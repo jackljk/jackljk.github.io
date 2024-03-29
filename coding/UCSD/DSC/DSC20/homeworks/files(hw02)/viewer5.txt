@@ -1,0 +1,6 @@
+marina,1,15,30
+marina,1,10,20
+marina,1,5,10
+marina,1,95,100
+marina,1,1000,1010
+marina,1,0,20
