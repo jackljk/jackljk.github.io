@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Senior Capstone Showcase"
-categories: [events, Data Science, Climate Bench]
+categories: [Events, Data Science]
 sitemap: false
 hide_last_modified: true
 permalink: /projects/events/Senior-Capstone-Showcase/

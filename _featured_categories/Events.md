@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: Cubing!
+title: Events
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: cubing
+slug: Events
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Cubing Journey
+    Events that I have attended or hosted!
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
