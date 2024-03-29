@@ -8,7 +8,7 @@ permalink: /projects/dsc/loan-prediction/
 related_posts:
     -
 sitemap: false
-image: /assets/projects/loan-predictions/webapp image.png
+image: /assets/projects/Machine-Learning/loan-predictions/webapp image.png
 ---
 
 # Predicting Loan Approvals using Machine Learning
@@ -21,7 +21,7 @@ The task given was to predict whether a person's loan gets approved or not based
 
 All my work through the process is documented in the Jupiter Notebook below, or click [here](/coding/ML/loan-prediction/) to go to it.
 
-[![Index Page](\assets\projects\loan-predictions/notebook.png){:.lead width="800" height="100" loading="lazy"}](/coding/ML/loan-prediction/)
+[![Index Page](\assets\projects\Machine-Learning/loan-predictions/notebook.png){:.lead width="800" height="100" loading="lazy"}](/coding/ML/loan-prediction/)
 
 Click to go to notebook
 {:.figcaption}
@@ -33,7 +33,7 @@ and documents all the important findings, results and conclusions of the project
 
 Click [here](\assets\projects\loan-predictions/report.pdf) or the image below to go to the report.
 
-[![Index Page](\assets\projects\loan-predictions/report.png){:.lead width="800" height="100" loading="lazy"}](\assets\projects\loan-predictions/report.pdf)
+[![Index Page](\assets\projects\Machine-Learning/loan-predictions/report.png){:.lead width="800" height="100" loading="lazy"}](\assets\projects\loan-predictions/report.pdf)
 
 Click to go to report
 {:.figcaption}
@@ -41,7 +41,7 @@ Click to go to report
 ## Code
 All of the code and raw files for the projects can also be found on my [Github](https://github.com/jackljk/loan-predictions)
 
-[![Index Page](\assets\projects\loan-predictions/github.png){:.lead width="800" height="100" loading="lazy"}](https://github.com/jackljk/loan-predictions)
+[![Index Page](\assets\projects\Machine-Learning/loan-predictions/github.png){:.lead width="800" height="100" loading="lazy"}](https://github.com/jackljk/loan-predictions)
 
 Click to go to github
 {:.figcaption}

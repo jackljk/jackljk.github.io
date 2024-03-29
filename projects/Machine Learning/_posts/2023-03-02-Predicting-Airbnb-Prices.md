@@ -8,7 +8,7 @@ permalink: /projects/dsc/airbnb-prediction/
 related_posts:
     -
 sitemap: false
-image: /assets/projects/Airbnb/kaggle page.png
+image: /assets/projects/Machine-Learning/Airbnb/kaggle page.png
 ---
 
 # Predicting Airbnb Prices using Machine Learning 
@@ -20,7 +20,7 @@ The dataset was given on the [Kaggle](https://www.kaggle.com/competitions/ucsd-d
 
 The notebook for the project is shown below, click the image or click [here](/coding/ML/airbnb-prediction/) to go to it.
 
-[![Index Page](\assets\projects\Airbnb/notebook.png){:.lead width="800" height="100" loading="lazy"}](/coding/ML/airbnb-prediction/)
+[![Index Page](/assets/projects/Machine-Learning/Airbnb/notebook.png){:.lead width="800" height="100" loading="lazy"}](/coding/ML/airbnb-prediction/)
 
 Click to go to notebook
 {:.figcaption}
@@ -28,7 +28,7 @@ Click to go to notebook
 ## Code
 All of the code and raw files for the projects can also be found on my [Github](https://github.com/jackljk/airbnb-prices-prediction)
 
-[![Index Page](\assets\projects\Airbnb/github.png){:.lead width="800" height="100" loading="lazy"}](https://github.com/jackljk/airbnb-prices-prediction)
+[![Index Page](\assets\projects\Machine-Learning/Airbnb/github.png){:.lead width="800" height="100" loading="lazy"}](https://github.com/jackljk/airbnb-prices-prediction)
 
 Click to go to github
 {:.figcaption}

@@ -8,7 +8,7 @@ permalink: /projects/vis/isochrone-of-san-diego/
 related_posts:
   - 
 sitemap: false
-image: /assets/projects/isochron/isochron.png
+image: /assets/projects/Data-Visualization/isochron/isochron.png
 ---
 
 # Isochrone of San Diego
@@ -39,9 +39,9 @@ $$
 $$
 
 ## How to use the Isochrone
-Along with **CCE** I made a comprehensive manual on how to work the app which can be downloaded <a href="{{site.baseurl}}\assets\projects\Isochron\Isochrone_manual.pdf" download>here.</a>
+Along with **CCE** I made a comprehensive manual on how to work the app which can be downloaded <a href="{{site.baseurl}}\assets\projects\Data-Visualization/Isochron\Isochrone_manual.pdf" download>here.</a>
 
-![Index Page](\assets\projects\isochron\instructions.png){:.lead width="800" height="100" loading="lazy"}
+![Index Page](\assets\projects\Data-Visualization/isochron\instructions.png){:.lead width="800" height="100" loading="lazy"}
 
 Manual for the Isochrone Preview
 {:.figcaption}
@@ -51,7 +51,7 @@ Manual for the Isochrone Preview
 ## Code 
 The link to the code for the isochrone is on my [Github](https://github.com/jackljk/Isochrone-of-San-Diego-Trolleys)
 
-![Index Page](\assets\projects\isochron\github.png){:.lead width="800" height="100" loading="lazy"}
+![Index Page](\assets\projects\Data-Visualization/isochron\github.png){:.lead width="800" height="100" loading="lazy"}
 
 Github Repository
 {:.figcaption}

@@ -8,7 +8,7 @@ permalink: /projects/vis/dota-2-vis/
 related_posts:
   - 
 sitemap: false
-image: /assets/projects/Dota 2 Vis/cover.png
+image: /assets/projects/Data-Visualization/Dota 2 Vis/cover.png
 ---
 
 # Dota 2 Visualization
@@ -23,7 +23,7 @@ Click the link to go the webpage for the visualizations.
 ## Visualizations
 Here is a link to the full Visualization page - [Dota 2 Visualization](https://dota2vis.netlify.app/)
 
-![Index Page](\assets\projects\Dota 2 Vis\Homepage.png){:.lead width="800" height="100" loading="lazy"}
+![Index Page](\assets\projects\Data-Visualization/Dota 2 Vis\Homepage.png){:.lead width="800" height="100" loading="lazy"}
 
 Index Page of the Visualizations
 {:.figcaption}
@@ -32,7 +32,7 @@ Index Page of the Visualizations
 ## Code 
 The code for the visualizations can be found on my [Github](https://github.com/jackljk/dota-2-visualization)
 
-![Index Page](\assets\projects\Dota 2 Vis\github.png){:.lead width="800" height="100" loading="lazy"}
+![Index Page](\assets\projects\Data-Visualization/Dota 2 Vis\github.png){:.lead width="800" height="100" loading="lazy"}
 
 Github Repository
 {:.figcaption}
