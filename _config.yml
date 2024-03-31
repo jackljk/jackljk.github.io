@@ -25,8 +25,7 @@ title:                 Jack Kai Lim
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress. test test
+  Welcome to my personal website! I use this to share all my projects and experiences in my journey as a data science student.
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -84,8 +83,8 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack
-# remote_theme: hydecorp/hydejack@v9
+# theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton

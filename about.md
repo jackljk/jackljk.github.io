@@ -10,7 +10,7 @@ hide_description: true
 
 <!--author-->
 
-Outside of education, I have also been a competitive swimmer for over 10 years, an avid climber and runner(Currently training for a marathon) and a Speed Cuber! My current record for the standard 3x3 is 8.48 which I break down further in [3x3 PB](/blogs/cubingcube-pb/). And during my down time I love to play [games](/games/)!
+Outside of education, I have also been a competitive swimmer for over 10 years, an avid climber and runner(Currently training for a marathon) and a Speed Cuber! My current record for the standard 3x3 is 8.48. And during my down time I love to play [games](/games/)!
 
 > Check out my [Resume](/resume/) to learn more about my experience and skills.
 > Please have a look around my website if you wish to learn more about me! 
@@ -18,9 +18,9 @@ Outside of education, I have also been a competitive swimmer for over 10 years, 
 ## Projects
 <div id = "my-project-cards">
 <div id = "project-cards">
-    <a href = "/projects/dsc/CB/Reproduction/" class = "project-card">
+    <a href = "/projects/dsc/CB/Plus/" class = "project-card">
     <div class = "project-card-border"></div>
-    <div class = "project-card-content"><img src="\assets\projects\ClimateBench\Reproduction\report.png" alt="Climate Bench Report Preview"><p>Climate Bench Reproduction</p></div>
+    <div class = "project-card-content"><img src="\assets\projects\ClimateBench\Plus\report.png" alt="Climate Bench Report Preview"><p>Climate Bench Plus</p></div>
     </a>
     <a href = "/projects/vis/isochrone-of-san-diego/" class = "project-card">
     <div class = "project-card-border"></div>
@@ -30,9 +30,9 @@ Outside of education, I have also been a competitive swimmer for over 10 years, 
     <div class = "project-card-border"></div>
     <div class = "project-card-content"><img src="\assets\about_imgs\website.png" alt="San Diego Isochrone"><p>Personal Portfolio</p></div>
     </a>
-    <a href = "/projects/vis/dota-2-vis/" class = "project-card">
+    <a href = "/projects/dsc/DeepLearning/MusicGen/RNN&LSTM/" class = "project-card">
     <div class = "project-card-border"></div>
-    <div class = "project-card-content"><img src="\assets\projects\Dota 2 Vis\Homepage.png"><p>Dota 2 Visulization Project</p></div>
+    <div class = "project-card-content"><img src="\assets\projects\Deep-Learning/Character-Level-Music-Generator/home.png"><p>Character Level Music Generator</p></div>
     </a>
 </div>
 </div>
