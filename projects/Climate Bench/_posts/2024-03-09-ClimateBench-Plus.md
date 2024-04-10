@@ -30,7 +30,7 @@ For a more in-depth look at the models and the project as a whole, below is the 
 
 <div id = "my-project-cards">
 <div id = "project-cards">
-    <a href = "https://jackljk.github.io/DSC180B-website/" class = "project-card" download>
+    <a href = "https://jackljk.github.io/DSC180B-website/" class = "project-card">
     <div class = "project-card-border"></div>
     <div class = "project-card-content"><img src="\assets\projects\ClimateBench\Plus\website.png" alt="Image of Website"><p>Website</p></div>
     </a>
