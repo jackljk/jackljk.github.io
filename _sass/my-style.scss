@@ -180,3 +180,17 @@
     background-color: #f9f9f9;
   }
 }
+
+.avatar {
+  animation-name: wave-animation;  /* Refers to the name of your @keyframes element below */
+  animation-duration: 2s;        /* Change to speed up or slow down */
+  animation-iteration-count: infinite;  /* Never stop waving :) */
+  transform-origin: 50% 50%;       /* Pivot around the bottom-left palm */
+  display: inline-block;
+}
+
+@keyframes wave-animation {
+  0% { transform: rotate( 20.0deg) }
+  50% { transform: rotate( -20.0deg) }
+  100% { transform: rotate( 20.0deg) }
+}
