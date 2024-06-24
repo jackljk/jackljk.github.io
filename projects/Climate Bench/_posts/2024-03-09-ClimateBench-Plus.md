@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Climate Bench Plus"
-categories: [projectsm ClimateBench]
+categories: [projects, ClimateBench]
 sitemap: false
 hide_last_modified: true
 permalink: /projects/dsc/CB/plus/

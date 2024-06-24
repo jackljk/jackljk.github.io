@@ -10,6 +10,10 @@ permalink: /projects/categorized/
 <!-- Add image -->
 ![Half-width](\assets\projects\home.png){:.lead width="800" height="50" loading="lazy"}
 
+## Hackathons
+* [Microsoft Gen AI Polyglot Pals]{:.heading.flip-title} --- Microsoft Gen AI Polyglot Pals hackathon project.
+* [Google AI Task Generator]{:.heading.flip-title} --- Google AI Task Generator hackathon project.
+
 ## Machine Learning Projects
 * [League: Carries vs Non-Carries]{:.heading.flip-title} --- Project on analysing the League of Legends dataset.
 * [League: Can we use individual stats to predict if they won or lost?]{:.heading.flip-title} --- Predicting win or loss based on individual stats using Machine Learning.
@@ -27,7 +31,13 @@ permalink: /projects/categorized/
 ## Climate Bench
 * [Climate Bench Reproduction]{:.heading.flip-title} --- Reproduction of a paper on climate science using Machine Learning.
 * [Climate Bench Plus]{:.heading.flip-title} --- Extension of the Climate Bench project by improving the upon the Baseline model.
+* [ClimateBench Neural Process]{:.heading.flip-title} --- ClimateBench utilizing the SOTA Neural Process model.
+* [Climate Diffusion Model]{:.heading.flip-title} --- Climate Diffusion Model to Generate Climate Data.
 
+## Internet of Things Projects
+* [Smart Fan]{:.heading.flip-title} --- Smart Fan project using Arduino and IoT.
+* [Secrity Alarm System]{:.heading.flip-title} --- Security Alarm System using Arduino and IoT.
+* [Cocktail Machine]{:.heading.flip-title} --- Cocktail Machine using Arduino and IoT.
 
 ## Data Visualization Projects
 * [Isochrone of San Diego]{:.heading.flip-title} --- Isochrone showing 10-min walking vs cycling distance and population within.
@@ -39,6 +49,8 @@ permalink: /projects/categorized/
 
 ## Personal Projects
 * [Personal Portfolio]{:.heading.flip-title} --- My personal portfolio website!
+
+
 
 
 
@@ -59,6 +71,13 @@ permalink: /projects/categorized/
 <!-- Climate Bench -->
 [Climate Bench Reproduction]: /projects/dsc/CB/Reproduction/
 [Climate Bench Plus]: /projects/dsc/CB/plus/
+[ClimateBench Neural Process]: /projects/dsc/CB/NP/
+[Climate Diffusion Model]: /projects/dsc/CB/Diffusion-Model/
+
+<!-- Internet of Things -->
+[Smart Fan]: /projects/IOT/Smart-Fan/
+[Secrity Alarm System]: /projects/IOT/Security-Alarm/
+[Cocktail Machine]: /projects/IOT/Cocktail-Machine/
 
 <!-- Data Visualization -->
 [Dota 2 Visulizations using D3]: /projects/vis/dota-2-vis/
@@ -71,3 +90,8 @@ permalink: /projects/categorized/
 
 <!-- Personal Porfolio -->
 [Personal Portfolio]: /projects/personal-portfolio/
+
+<!-- Hackathons -->
+[Microsoft Gen AI Polyglot Pals]: /projects/hackathons/Microsoft-Gen-AI-Polyglot-Pals/
+[Google AI Task Generator]: /projects/hackathons/Google-AI-Task-Generator/
+
