@@ -18,3 +18,28 @@ During the showcase, we had to present an elevator pitch to the judges and the a
 
 
 > Here is also a link to a list of all the projects that were showcased during the event: [Senior Capstone Showcase Projects](https://dsc-capstone.org/showcase-24/) --- My group is **B03**
+
+
+## Deliverables
+<div id = "my-project-cards">
+<div id = "project-cards">
+    <a href = "https://github.com/jackljk/ClimateBench-Plus" class = "project-card">
+    <div class = "project-card-border"></div>
+    <div class = "project-card-content"><img src="\assets\projects\Events\Senior-Capstone-Showcase\code.png" alt="Preview of Github"><p>Code</p></div>
+    </a>
+    <a href = "\assets\projects\Events\Senior-Capstone-Showcase\report.pdf" class = "project-card" download>
+    <div class = "project-card-border"></div>
+    <div class = "project-card-content"><img src="\assets\projects\Events\Senior-Capstone-Showcase/report.png" alt="Preview Image of report"><p>Report</p></div>
+    </a>
+</div>
+<div id = "project-cards">
+    <a href = "\assets\projects\Events\Senior-Capstone-Showcase\poster.pdf" class = "project-card" download>
+    <div class = "project-card-border"></div>
+    <div class = "project-card-content"><img src="\assets\projects\Events\Senior-Capstone-Showcase\poster.png" alt="Preview of Github"><p>Poster</p></div>
+    </a>
+    <a href = "https://jackljk.github.io/DSC180B-website/" class = "project-card">
+    <div class = "project-card-border"></div>
+    <div class = "project-card-content"><img src="\assets\projects\Events\Senior-Capstone-Showcase\website.png" alt="Preview Image of report"><p>Website</p></div>
+    </a>
+</div>
+</div>
