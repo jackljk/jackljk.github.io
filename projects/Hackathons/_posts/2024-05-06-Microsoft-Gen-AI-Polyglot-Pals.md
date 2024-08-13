@@ -12,3 +12,4 @@ image:
 ---
 
 # Microsoft Gen AI Polyglot Pals
+For the [Microsoft AI Hackathon](https://microsoftai.devpost.com/), 
