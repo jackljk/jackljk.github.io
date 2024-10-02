@@ -10,10 +10,6 @@ permalink: /projects/categorized/
 <!-- Add image -->
 ![Half-width](\assets\projects\home.png){:.lead width="800" height="50" loading="lazy"}
 
-## Hackathons
-* [Microsoft Gen AI Polyglot Pals]{:.heading.flip-title} --- Microsoft Gen AI Polyglot Pals hackathon project.
-* [Google AI Task Generator]{:.heading.flip-title} --- Google AI Task Generator hackathon project.
-
 ## Machine Learning Projects
 * [League: Carries vs Non-Carries]{:.heading.flip-title} --- Project on analysing the League of Legends dataset.
 * [League: Can we use individual stats to predict if they won or lost?]{:.heading.flip-title} --- Predicting win or loss based on individual stats using Machine Learning.
@@ -34,6 +30,14 @@ permalink: /projects/categorized/
 * [ClimateBench Neural Process]{:.heading.flip-title} --- ClimateBench utilizing the SOTA Neural Process model.
 * [Climate Diffusion Model]{:.heading.flip-title} --- Climate Diffusion Model to Generate Climate Data.
 
+## Personal Projects
+* [Online Song Guessing Game]{:.heading.flip-title} --- Online Song Guessing Game with Sockets, Flask, MongoDB and React.
+* [Personal Portfolio]{:.heading.flip-title} --- My personal portfolio website!
+
+## Hackathons
+* [Microsoft Gen AI Polyglot Pals]{:.heading.flip-title} --- Microsoft Gen AI Polyglot Pals hackathon project.
+* [Google AI Task Generator]{:.heading.flip-title} --- Google AI Task Generator hackathon project.
+
 ## Internet of Things Projects
 * [Smart Fan]{:.heading.flip-title} --- Smart Fan project using Arduino and IoT.
 * [Secrity Alarm System]{:.heading.flip-title} --- Security Alarm System using Arduino and IoT.
@@ -47,8 +51,7 @@ permalink: /projects/categorized/
 * [Datahacks 2024]{:.heading.flip-title} --- Datahacks 2024 event by Data Science Student Society Directed by Me.
 * [ASML x DS3 Campus Tour]{:.heading.flip-title} --- ASML x DS3 Campus Tour event hosted and organized by me
 
-## Personal Projects
-* [Personal Portfolio]{:.heading.flip-title} --- My personal portfolio website!
+
 
 
 
@@ -90,6 +93,7 @@ permalink: /projects/categorized/
 
 <!-- Personal Porfolio -->
 [Personal Portfolio]: /projects/personal-portfolio/
+[Online Song Guessing Game]: /projects/personal/Online-Song-Guessing-Game/
 
 <!-- Hackathons -->
 [Microsoft Gen AI Polyglot Pals]: /projects/hackathons/Microsoft-Gen-AI-Polyglot-Pals/
